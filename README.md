@@ -10,9 +10,9 @@ Machine Learning Model:
 Visualization: Use of Seaborn and Matplotlib to create insightful visualizations for better understanding of the data.
 
 **Libraries Used:**
-Data Manipulation: pandas, numpy
-Visualization: matplotlib, seaborn
-Machine Learning: scikit-learn
+Data Manipulation: Pandas, Numpy
+Visualization: Matplotlib, Seaborn
+Machine Learning: Scikit-Learn
 
 **How to Use:**
 Clone the repository and install required dependencies.
